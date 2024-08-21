@@ -118,7 +118,7 @@ body {
 
                                     justify-content: center;
                                     align-items: center;
-                                    
+                                    flex-wrap:wrap;
                                 
                                     display:flex;
                                     overflow:hidden;
@@ -130,6 +130,7 @@ body {
                                 
                                     justify-content: center;
                                     align-items: center;
+                                    flex-wrap:wrap;
                                 
                                 
                                     display:flex;
